@@ -1,0 +1,8 @@
+{
+  "name": "P2P GamePlayer",
+  "description": "Decentralized, offline-first cross-platform multiplayer card games, board games, and WebAssembly Phaser retro emulator powered by P2P mesh networking, cryptographic ledgers, Lyria music generation, and Gemini 4 Argon high-thinking strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

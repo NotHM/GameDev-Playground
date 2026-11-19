@@ -1,0 +1,17 @@
+{
+  "skillName": "sprite-sheet-generator",
+  "version": "1.2.0",
+  "targetEngine": "phaser-4",
+  "gridSize": 32,
+  "palettes": {
+    "emerald_casino": ["#0B1215", "#0F5132", "#10B981", "#F59E0B", "#F8FAFC"],
+    "amber_crt": ["#140C00", "#451A03", "#D97706", "#FBBF24", "#FEF3C7"],
+    "crimson_royal": ["#0F172A", "#881337", "#E11D48", "#F43F5E", "#FFFFFF"]
+  },
+  "sprites": [
+    { "id": "arcade_paddle", "frames": 4, "width": 64, "height": 16, "shape": "beveled_bar" },
+    { "id": "plasma_ball", "frames": 6, "width": 16, "height": 16, "shape": "radial_core" },
+    { "id": "vector_ship", "frames": 8, "width": 32, "height": 32, "shape": "delta_wing" },
+    { "id": "royal_spade_crest", "frames": 2, "width": 48, "height": 48, "shape": "insignia" }
+  ]
+}
